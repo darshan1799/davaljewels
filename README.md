@@ -11,7 +11,9 @@ Admin : https://davaljewels.vercel.app/admin/dashboard
 ## Demo Admin Access
 
 Email: demo@gmail.com
+
 Password: demo@123
+
 Otp : 123456
 
 Note: Demo account has read-only access.
