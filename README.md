@@ -5,6 +5,7 @@ A full-stack Jewellery CMS platform with a centralized admin dashboard for manag
 ## Live Demo
 
 Frontend: https://davaljewels.vercel.app/
+
 Admin : https://davaljewels.vercel.app/admin/dashboard
 
 ## Demo Admin Access
